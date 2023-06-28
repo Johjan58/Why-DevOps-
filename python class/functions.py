@@ -12,7 +12,7 @@ def myfunction(name):
 myfunction("sara")
 
 """
-Lambda functions
+Lambda functiosns
 A lambda function is a small anonymous function.
 Why Use Lambda Functions?
 The power of lambda is better shown when you use them as an anonymous function inside another function.
